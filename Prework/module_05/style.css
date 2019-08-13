@@ -1,0 +1,15 @@
+<style>
+    h1{text-align: center}
+    .red{color: red}
+    .blue{color: blue}
+    .green{color: green}
+    .big{font-size: 20px}
+    .tiny{font-size: 5px}
+    .center{text-align: center}
+    .emphasis{font-weight: bold}
+    .newFont{font-family: cursive }
+    .styledFont{color: orange; font-size: big; font-weight: bold  }
+
+    #styledImage {border-width: 1em; border-style: double; border-color: hotpink}
+
+</style>
